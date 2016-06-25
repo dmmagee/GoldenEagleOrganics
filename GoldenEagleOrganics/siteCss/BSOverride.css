@@ -2,6 +2,10 @@
     background-color: #EADFCD;
 }
 
+.black-links > a {
+    color: #404040;
+}
+
 .active > a {
     background-color: #BF985A !important;
 }
