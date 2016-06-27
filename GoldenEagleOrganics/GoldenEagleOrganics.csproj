@@ -44,11 +44,20 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="GEOPics\alfalfa01.jpg" />
+    <Content Include="GEOPics\beef01.jpg" />
+    <Content Include="GEOPics\custFarmServ01.jpg" />
     <Content Include="GEOPics\facebook-square.png" />
+    <Content Include="GEOPics\geo01.jpg" />
+    <Content Include="GEOPics\geo02.jpg" />
+    <Content Include="GEOPics\geo03.jpg" />
     <Content Include="GEOPics\GEOCrest.png" />
     <Content Include="GEOPics\GEOI.jpg" />
     <Content Include="GEOPics\GEOItab.ico" />
     <Content Include="GEOPics\GEOItab.png" />
+    <Content Include="GEOPics\goat01.jpg" />
+    <Content Include="GEOPics\hay01.jpg" />
+    <Content Include="GEOPics\lamb01.jpg" />
     <Content Include="GEOPics\mail.png" />
     <Content Include="GEOPics\placeholder.png" />
     <Content Include="contact.html" />

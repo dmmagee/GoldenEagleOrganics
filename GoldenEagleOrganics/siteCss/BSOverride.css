@@ -46,11 +46,19 @@
 }
 
 .product-overlay {
-    /*bottom: 50px;
-    left: 0;
-    height: 50px;
-    width: 100%;*/
-    background-color: rgba(0,0,0,0.5);
-    z-index: 3;
-
+    position: relative;
+    width: 100%;
 }
+
+    .product-overlay h2 {
+        background-color: rgba(0,0,0,0.65);
+        color: white;
+        font-family: 'Times New Roman';
+        position: absolute;
+        bottom: 0px;
+        left: 0;
+        padding: 15px 30px 15px 30px;
+        border-top-right-radius: 25px;
+        border-bottom-right-radius: 25px;
+        margin-bottom: 15px !important;
+    }
