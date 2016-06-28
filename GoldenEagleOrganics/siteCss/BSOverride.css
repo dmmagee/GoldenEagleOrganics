@@ -18,9 +18,17 @@
 }
 
 .dropdown-menu {
-    background-color: #EADFCD;
+    background-color: #B88D47 !important;
     left: 30px;
 }
+
+    .dropdown-menu a {
+        color: white !important;
+    }
+
+        .dropdown-menu a:hover {
+            color: #404040 !important;
+        }
 
 .navbar {
     margin-bottom: 0 !important;

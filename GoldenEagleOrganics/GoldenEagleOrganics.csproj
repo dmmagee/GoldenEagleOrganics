@@ -44,6 +44,11 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="goat.html" />
+    <Content Include="hay.html" />
+    <Content Include="alfalfa.html" />
+    <Content Include="farming.html" />
+    <Content Include="lamb.html" />
     <Content Include="GEOPics\alfalfa01.jpg" />
     <Content Include="GEOPics\beef01.jpg" />
     <Content Include="GEOPics\custFarmServ01.jpg" />
@@ -63,6 +68,7 @@
     <Content Include="GEOPics\placeholder.png" />
     <Content Include="contact.html" />
     <Content Include="GEOPics\usdaorg.png" />
+    <Content Include="beef.html" />
     <Content Include="services.html" />
     <Content Include="products.html" />
     <Content Include="index.html" />
