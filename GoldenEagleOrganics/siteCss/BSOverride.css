@@ -13,6 +13,15 @@
 .active > li {
 }
 
+.dropdown-toggle {
+    background-color: #937039 !important;
+}
+
+.dropdown-menu {
+    background-color: #EADFCD;
+    left: 30px;
+}
+
 .navbar {
     margin-bottom: 0 !important;
     border: 0 !important;
