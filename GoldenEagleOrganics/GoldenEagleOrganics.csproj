@@ -59,8 +59,10 @@
     <Content Include="GEOPics\hay01.jpg" />
     <Content Include="GEOPics\lamb01.jpg" />
     <Content Include="GEOPics\mail.png" />
+    <Content Include="GEOPics\oretil.png" />
     <Content Include="GEOPics\placeholder.png" />
     <Content Include="contact.html" />
+    <Content Include="GEOPics\usdaorg.png" />
     <Content Include="services.html" />
     <Content Include="products.html" />
     <Content Include="index.html" />
