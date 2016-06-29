@@ -2,6 +2,10 @@
     background-color: #EADFCD;
 }
 
+hr {
+    border: 1px solid #B88D47;
+}
+
 .black-links > a {
     color: #404040;
 }

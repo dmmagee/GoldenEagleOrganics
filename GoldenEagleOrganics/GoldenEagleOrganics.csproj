@@ -44,7 +44,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="form.js" />
     <Content Include="GEOPics\emailLogo.jpg" />
     <Content Include="GEOPics\fblogo.jpg" />
     <Content Include="GEOPics\profile_blank.png" />
