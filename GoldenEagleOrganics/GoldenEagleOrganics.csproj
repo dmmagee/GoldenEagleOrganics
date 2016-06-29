@@ -72,7 +72,7 @@
     <Content Include="contact.html" />
     <Content Include="GEOPics\usdaorg.png" />
     <Content Include="beef.html" />
-    <Content Include="services.html" />
+    <Content Include="about.html" />
     <Content Include="products.html" />
     <Content Include="index.html" />
     <Content Include="js\bootstrap.js" />
