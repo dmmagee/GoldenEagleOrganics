@@ -44,6 +44,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="GEOPics\profile_blank.png" />
     <Content Include="goat.html" />
     <Content Include="hay.html" />
     <Content Include="alfalfa.html" />
