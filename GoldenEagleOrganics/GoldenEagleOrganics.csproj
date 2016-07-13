@@ -41,13 +41,24 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="about.html" />
+    <Content Include="bin\Debug\GoldenEagleOrganics.dll" />
+    <Content Include="bin\Debug\GoldenEagleOrganics.pdb" />
+    <Content Include="blog.html" />
+    <Content Include="contact.html" />
+    <Content Include="css\bootstrap.css" />
+    <Content Include="css\bootstrap.min.css" />
+    <Content Include="css\business-casual.css" />
+    <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="GEOPics\alfalfa02.jpg" />
-    <Content Include="GEOPics\alfalfa03.jpg" />
-    <Content Include="GEOPics\alfalfa04.jpg" />
     <Content Include="GEOPics\alfalfa05.jpg" />
+    <Content Include="GEOPics\blogPic01.jpg" />
     <Content Include="GEOPics\bodhi01.png" />
     <Content Include="GEOPics\brian01.png" />
     <Content Include="GEOPics\chicken01.jpg" />
@@ -59,6 +70,7 @@
     <Content Include="GEOPics\custFarmServ05.jpg" />
     <Content Include="GEOPics\emailLogo.jpg" />
     <Content Include="GEOPics\emily01.png" />
+    <Content Include="GEOPics\facebook-square2.png" />
     <Content Include="GEOPics\fblogo.jpg" />
     <Content Include="GEOPics\geo04.jpg" />
     <Content Include="GEOPics\geo05.jpg" />
@@ -76,14 +88,20 @@
     <Content Include="GEOPics\lamb03.jpg" />
     <Content Include="GEOPics\lamb04.jpg" />
     <Content Include="GEOPics\lamb05.jpg" />
+    <Content Include="GEOPics\mail2.png" />
     <Content Include="GEOPics\owners01.jpg" />
     <Content Include="GEOPics\profile_blank.png" />
     <Content Include="goat.html" />
     <Content Include="hay.html" />
     <Content Include="alfalfa.html" />
     <Content Include="farming.html" />
+    <Content Include="img\bg.jpg" />
+    <Content Include="img\intro-pic.jpg" />
+    <Content Include="img\slide-1.jpg" />
+    <Content Include="img\slide-2.jpg" />
+    <Content Include="img\slide-3.jpg" />
+    <Content Include="index.html" />
     <Content Include="lamb.html" />
-    <Content Include="GEOPics\alfalfa01.jpg" />
     <Content Include="GEOPics\beef01.jpg" />
     <Content Include="GEOPics\custFarmServ01.jpg" />
     <Content Include="GEOPics\facebook-square.png" />
@@ -100,22 +118,21 @@
     <Content Include="GEOPics\mail.png" />
     <Content Include="GEOPics\oretil.png" />
     <Content Include="GEOPics\placeholder.png" />
-    <Content Include="contact.html" />
+    <Content Include="contact2.html" />
     <Content Include="GEOPics\usdaorg.png" />
     <Content Include="beef.html" />
-    <Content Include="about.html" />
+    <Content Include="about2.html" />
+    <Content Include="obj\Debug\GoldenEagleOrganics.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\GoldenEagleOrganics.dll" />
+    <Content Include="obj\Debug\GoldenEagleOrganics.pdb" />
     <Content Include="products.html" />
-    <Content Include="index.html" />
+    <Content Include="index2.html" />
     <Content Include="js\bootstrap.js" />
     <Content Include="js\bootstrap.min.js" />
     <Content Include="js\contact_me.js" />
     <Content Include="js\jqBootstrapValidation.js" />
     <Content Include="js\jquery.js" />
-    <Content Include="siteCss\bootstrap.css" />
-    <Content Include="siteCss\bootstrap.min.css" />
-    <Content Include="siteCss\BSOverride.css" />
-    <Content Include="siteCss\font-awesome.css" />
-    <Content Include="siteCss\font-awesome.min.css" />
+    <Content Include="siteCss\addedStyle.css" />
     <Content Include="siteCss\Hover\.gitignore" />
     <Content Include="siteCss\Hover\Gruntfile.js" />
     <Content Include="siteCss\Hover\hover-min.css" />
@@ -123,12 +140,23 @@
     <Content Include="siteCss\Hover\license.txt" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="fonts\glyphicons-halflings-regular.eot" />
+    <None Include="fonts\glyphicons-halflings-regular.ttf" />
+    <None Include="fonts\glyphicons-halflings-regular.woff" />
+    <None Include="fonts\glyphicons-halflings-regular.woff2" />
+    <None Include="LICENSE" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="obj\Debug\GoldenEagleOrganics.csprojResolveAssemblyReference.cache" />
     <None Include="siteCss\Hover\.editorconfig" />
     <None Include="siteCss\Hover\bower.json" />
     <None Include="siteCss\Hover\CONTRIBUTING.md" />
     <None Include="siteCss\Hover\HISTORY.md" />
     <None Include="siteCss\Hover\package.json" />
     <None Include="siteCss\Hover\README.md" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Release\" />
+    <Folder Include="obj\Debug\TempPE\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
