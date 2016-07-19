@@ -8,3 +8,8 @@ C:\Users\Mr Bonky\Documents\GitHub\GoldenEagleOrganics\GoldenEagleOrganics\bin\D
 C:\Users\Mr Bonky\Documents\GitHub\GoldenEagleOrganics\GoldenEagleOrganics\obj\Debug\GoldenEagleOrganics.csprojResolveAssemblyReference.cache
 C:\Users\Mr Bonky\Documents\GitHub\GoldenEagleOrganics\GoldenEagleOrganics\obj\Debug\GoldenEagleOrganics.dll
 C:\Users\Mr Bonky\Documents\GitHub\GoldenEagleOrganics\GoldenEagleOrganics\obj\Debug\GoldenEagleOrganics.pdb
+C:\Users\Devin Magee\Documents\GitHub\GoldenEagleOrganics\GoldenEagleOrganics\bin\Debug\GoldenEagleOrganics.dll
+C:\Users\Devin Magee\Documents\GitHub\GoldenEagleOrganics\GoldenEagleOrganics\bin\Debug\GoldenEagleOrganics.pdb
+C:\Users\Devin Magee\Documents\GitHub\GoldenEagleOrganics\GoldenEagleOrganics\obj\Debug\GoldenEagleOrganics.csprojResolveAssemblyReference.cache
+C:\Users\Devin Magee\Documents\GitHub\GoldenEagleOrganics\GoldenEagleOrganics\obj\Debug\GoldenEagleOrganics.dll
+C:\Users\Devin Magee\Documents\GitHub\GoldenEagleOrganics\GoldenEagleOrganics\obj\Debug\GoldenEagleOrganics.pdb
