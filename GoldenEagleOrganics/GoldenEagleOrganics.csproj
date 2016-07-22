@@ -62,6 +62,7 @@
     <Content Include="GEOPics\bodhi01.jpg" />
     <Content Include="GEOPics\brian01.jpg" />
     <Content Include="GEOPics\geo09.gif" />
+    <Content Include="GEOPics\GEOCrest.png" />
     <Content Include="GEOPics\lambCuts.jpg" />
     <Content Include="GEOPics\chicken01.jpg" />
     <Content Include="GEOPics\chicken02.jpg" />
@@ -108,7 +109,6 @@
     <Content Include="GEOPics\geo01.jpg" />
     <Content Include="GEOPics\geo02.jpg" />
     <Content Include="GEOPics\geo03.jpg" />
-    <Content Include="GEOPics\GEOCrest.png" />
     <Content Include="GEOPics\GEOI.jpg" />
     <Content Include="GEOPics\GEOItab.ico" />
     <Content Include="GEOPics\GEOItab.png" />
